@@ -172,23 +172,3 @@ If math ever feels boring, ask yourself:
 You might discover that math was never the problem —
 the way it was taught was.
 
----
-
-## ✅ Why this article works
-- No syllabus repetition  
-- No heavy formulas  
-- High-school friendly  
-- Perspective-changing  
-- Sets a **strong identity** for your site  
-
-This is the kind of post students **remember**, not just read.
-
----
-
-### Next (when you’re ready)
-Natural follow-ups that fit this tone:
-- *Why x Is Not a Number*
-- *Why Graphs Are Stories*
-- *Why Direction Changes Everything*
-
-Whenever you say **“next topic”**, I’ll continue in the same style 🌱
