@@ -61,7 +61,7 @@ $\vec{b} = (1, 4)$
 Then:
 
 $$
-\vec{a} + \vec{b} = (3+1,\2+4) = (4, 6)
+\vec{a} + \vec{b} = (3+1,\;2+4) = (4, 6)
 $$
 
 Think of it like this:
