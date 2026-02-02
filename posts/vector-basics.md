@@ -35,16 +35,17 @@ This means:
 
 ### Visual on a grid
 
+~~~
 y-axis
-^
-|
-2 | • (3,2)
-|
+  ^
+  |
+2 |        • (3,2)
+  |
 1 |
-|
+  |
 0 +------------------> x-axis
-0 1 2 3
-
+    0   1   2   3
+~~~
 
 > Imagine starting at the origin (0,0), walking 3 steps right and 2 steps up.
 
